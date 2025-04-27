@@ -1,0 +1,15 @@
+{
+"commentary": "I will create a note-taking app similar to Google Keep, using markdown for formatting. The app will have a dark mode toggle, allow users to add and delete notes, and feature a real-time preview of the markdown. I will use Next.js with TypeScript for this, along with Tailwind CSS for styling.",
+"template": "nextjs-developer",
+"title": "Markdown Note App",
+"description": "A note-taking app with markdown support and dark mode.",
+"additional_dependencies": [
+"marked",
+"dompurify"
+],
+"has_additional_dependencies": true,
+"install_dependencies_command": "npm install marked dompurify",
+"port": 3000,
+"file_path": "app/page.tsx",
+"code": "<see code above>"
+}
